@@ -1,8 +1,8 @@
 # C# Console Applications App01 to App05
 | Author | Details |
 | ---- | ---- |
-**Name**: | Student Name  |
-**Student ID**: | 12345678 |
+**Name**: | Lekan Akande |
+**Student ID**: | 21903120|
 **Course:** | Computing |
 **Module**: | CO453     |
 **Started**: | January 2021 |    
